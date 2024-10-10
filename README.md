@@ -36,7 +36,7 @@ TextEditorApp/
 │
 ├── README.md           # Project documentation
 ├── .gitignore          # Files/folders to ignore in the repository
-└── LICENSE             # License file (optional)
+└── LICENSE             # License file 
 ```
 
 ## How to Use
@@ -102,5 +102,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-Feel free to modify this README as necessary to match your exact project setup or add additional sections (such as screenshots or known issues). This provides clear documentation for users and developers alike.
+
 
