@@ -4,7 +4,7 @@
 
 # TextEditorApp
 
-A feature-rich, command-line-based text editor that allows users to perform **Create, Read, Update, Delete (CRUD)** operations on text files. This application is built with a **C++ backend** for efficient file handling and a **Python Tkinter-based UI** for an interactive user interface. The repository contains both the source code and precompiled executables for easy use.
+A feature-rich, command-line-based text editor that allows users to perform **Create, Read, Update, Delete (CRUD)** operations on text files. This application is built with a **C++ backend**  and a **Python Tkinter-based UI** for user interface. The repository contains both the source code and precompiled executables for easy use.
 
 ## Features
 
@@ -77,7 +77,7 @@ To clone and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TextEditorApp.git
+   git clone https://github.com/joelrufus/TextEditorApp.git
    cd TextEditorApp
    ```
 
